@@ -1,27 +1,27 @@
-# CryptoCheckerUet
+# InfoCryptoHub 📈💰
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+Welcome to InfoCryptoHub, an Angular application designed to provide comprehensive information about various cryptocurrencies, including their prices, percentage changes in the last 24 hours, market capitalization, rank, and graphical trend analysis for different time periods.
 
-## Development server
+## Features 🌟
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Cryptocurrency Overview:** View a list of all cryptocurrencies along with their current prices.
+- **Price Change Percentage:** See the percentage change in prices for each cryptocurrency over the last 24 hours.
+- **Market Capitalization:** Access information on the market capitalization of each cryptocurrency.
+- **Ranking:** Obtain the ranking of each cryptocurrency based on market capitalization.
+- **Graphical Trend Analysis:** Visualize the price trends of cryptocurrencies over the last 24 hours, 30 days, 3 months, or 1 year.
 
-## Code scaffolding
+## How to Use 🚀
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. **Browse Cryptocurrencies:** Explore the list of cryptocurrencies available on the platform.
+2. **View Price Changes:** Check the percentage change in prices for the cryptocurrencies in the last 24 hours.
+3. **Discover Market Cap:** Access the market capitalization data for each cryptocurrency.
+4. **Ranking Information:** Obtain the ranking of cryptocurrencies based on market capitalization.
+5. **Graphical Trends:** Select a cryptocurrency to view graphical trend analysis for different time periods.
 
-## Build
+## Get Started 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Experience the power of comprehensive cryptocurrency information with InfoCryptoHub. Start exploring now!
 
-## Running unit tests
+[Launch InfoCryptoHub](http://infocrypthub.uetcompany.ro) 🚀🔗
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Start making informed decisions in the cryptocurrency market with InfoCryptoHub! 📈💰
